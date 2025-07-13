@@ -25,12 +25,11 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    I currently have entry-level foundational html and css skills. I need to improve my foundation understanding and retention of the concepts needed.
+
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    My key interests are varied across my qualification opportunities, as I'd be able to develop a wide variety of software from desktops to mobile applications and operating systems. I value a growth driven and supportive work environment.
 
 ### Part 2: Career Exploration Insights
 
