@@ -51,30 +51,30 @@ By completing this reflection, you will gain a clearer understanding of your car
     
 2. **Long-term Goals** (3-5 years and beyond):
     
-    I will sucessfully complete my Bsc in Computer Science. Therefore, realistically attaining my goals and desired profession.
+    I will successfully complete my Bsc in Computer Science. Therefore, realistically attaining my goals and desired profession.
     
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    I need to study and practice diligently, to ensure a successful outcome in my CodeSpace course. This will equip me for the job market.
+    
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    Being financially independent, through employment and financially responsible, through budgeting and paying my tuition, will aid me in my career aspirations.
+    
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    Unemployment can hinder my aspirations. I need to ensure good marks, to catch the attention of hiring companies. I need to wisely use my study and submission opportunities to ensure success.
+    
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    After acquiring my Bsc in Computer Science I can further grow my projects CV for more experience and possible promotions; that can also be aided through extra qualifications in expanding my coding languages and experience.
+    
 
 ### Submission
 
