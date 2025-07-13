@@ -31,16 +31,17 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     My key interests are varied across my qualification opportunities, as I'd be able to develop a wide variety of software from desktops to mobile applications and operating systems. I value a growth driven and supportive work environment.
 
+
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    I have researched Web vs Software Development; through this, I learned that there are more opportunities for growth and diversifying my skills through Software Development.
+    
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    As I'm currently in a Software Development short course, this is the perfect entry for me into the field, as I have no prior educational background into the field.
+    
 
 ### Part 3: SMART Career Goals
 
