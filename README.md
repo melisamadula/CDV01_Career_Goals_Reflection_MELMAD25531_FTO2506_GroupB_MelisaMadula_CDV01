@@ -47,12 +47,12 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    I am going to finish this course, then with my new found foundational education, I'm going to enter the work force as an entry-level junior developer. With my salary I'm going to put myself through my tertiary education in my desired field, and that will be attainable through getting a Bsc in Computer Science.
+    
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    I will sucessfully complete my Bsc in Computer Science. Therefore, realistically attaining my goals and desired profession.
+    
 
 ### Part 4: Action Plan
 
